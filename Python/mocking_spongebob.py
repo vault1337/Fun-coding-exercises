@@ -1,3 +1,7 @@
+"""Mocking SpongeBob meme text generator.
+Video: https://youtu.be/akp8JZXikLY
+"""
+
 import sys
 
 if __name__ == '__main__':
