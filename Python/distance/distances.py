@@ -2,6 +2,12 @@ import requests
 import json
 import csv
 
+"""
+Videó: https://youtu.be/B1v4aE4_O3A
+Patreon: https://patreon.com/vault1337
+Google Maps Distance Matrix API: https://developers.google.com/maps/documentation/distance-matrix/overview
+"""
+
 api_key = "IDE_ÍRD_BE_A_SAJÁT_API_KULCSOD"
 
 origin = "Vault 1337"
